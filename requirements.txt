@@ -1,0 +1,9 @@
+pymongo
+pymongo[srv] #connecting to MongoDB Atlas clusters using the SRV DNS record format
+dnspython
+pandas
+numpy
+ensure
+pytest
+
+-e. # local package
