@@ -19,7 +19,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
    
 
 __version__ = "0.0.5"
-REPO_NAME = "FirstMLOpsProject"
+REPO_NAME = "FirstMLOpsProject" # repo name in Github
 PKG_NAME= "omar_pkk"
 AUTHOR_USER_NAME = "OmarHSalim"
 AUTHOR_EMAIL = "omar.salim.eng@gmail.com"

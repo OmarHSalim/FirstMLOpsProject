@@ -3,6 +3,9 @@ from pathlib import Path
 
 package_name = "mongodb_connect"
 
+
+# write workflow
+# src: source code
 list_of_files = [
    ".github/workflows/ci.yaml",
    "src/__init__.py",
